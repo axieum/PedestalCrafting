@@ -1,0 +1,63 @@
+{
+    "credit": "Made with Blockbench; Inspiration from BlakeBr0",
+    "textures": {
+        "top": "blocks/bedrock",
+        "ridge": "blocks/bedrock",
+        "base": "blocks/bedrock",
+        "particle": "blocks/bedrock"
+    },
+    "elements": [
+        {
+            "name": "Cube Bottom",
+            "from": [1, 0, 1],
+            "to": [15, 2, 15],
+            "faces": {
+                "north": {"uv": [0, 0, 14, 2], "texture": "#base"},
+                "east": {"uv": [0, 0, 14, 2], "texture": "#base"},
+                "south": {"uv": [0, 0, 14, 2], "texture": "#base"},
+                "west": {"uv": [0, 0, 14, 2], "texture": "#base"},
+                "up": {"uv": [0, 0, 14, 14], "texture": "#base"},
+                "down": {"uv": [0, 0, 14, 14], "texture": "#base"}
+            }
+        },
+        {
+            "name": "Ridge #ridge",
+            "from": [3, 2, 3],
+            "to": [13, 4, 13],
+            "faces": {
+                "north": {"uv": [0, 0, 10, 2], "texture": "#ridge"},
+                "east": {"uv": [0, 0, 10, 2], "texture": "#ridge"},
+                "south": {"uv": [0, 0, 10, 2], "texture": "#ridge"},
+                "west": {"uv": [0, 0, 10, 2], "texture": "#ridge"},
+                "up": {"uv": [3, 3, 13, 13], "texture": "#ridge"},
+                "down": {"uv": [3, 3, 13, 13], "texture": "#ridge"}
+            }
+        },
+        {
+            "name": "Cube Core",
+            "from": [4, 4, 4],
+            "to": [12, 14, 12],
+            "faces": {
+                "north": {"uv": [0, 0, 8, 10], "texture": "#base"},
+                "east": {"uv": [0, 0, 8, 10], "texture": "#base"},
+                "south": {"uv": [0, 0, 8, 10], "texture": "#base"},
+                "west": {"uv": [0, 0, 8, 10], "texture": "#base"},
+                "up": {"uv": [4, 4, 12, 12], "texture": "#base"},
+                "down": {"uv": [4, 4, 12, 12], "texture": "#base"}
+            }
+        },
+        {
+            "name": "Cube Top",
+            "from": [2, 14, 2],
+            "to": [14, 16, 14],
+            "faces": {
+                "north": {"uv": [2, 0, 14, 2], "texture": "#base"},
+                "east": {"uv": [2, 0, 14, 2], "texture": "#base"},
+                "south": {"uv": [2, 0, 14, 2], "texture": "#base"},
+                "west": {"uv": [2, 0, 14, 2], "texture": "#base"},
+                "up": {"uv": [2, 2, 14, 14], "texture": "#top", "tintindex": 0},
+                "down": {"uv": [2, 2, 14, 14], "texture": "#base"}
+            }
+        }
+    ]
+}

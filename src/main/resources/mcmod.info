@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "pedestalcrafting",
+        "name": "Pedestal Crafting",
+        "description": "Provides crafting capabilities through the use of pedestals",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/Axieum/PedestalCrafting",
+        "updateUrl": "",
+        "authorList": [
+            "Axieum"
+        ],
+        "credits": "jaredlll08 for the CraftTweaker mod; mezz for the Just Enough Items mod",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]

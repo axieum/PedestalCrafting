@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        " B ",
+        "BGB"
+    ],
+    "key": {
+        "G": {
+            "type": "forge:ore_dict",
+            "ore": "ingotGold"
+        },
+        "B": {
+            "type": "forge:ore_dict",
+            "ore": "blockGold"
+        }
+    },
+    "result": {
+        "item": "pedestalcrafting:pedestal",
+        "data": 3,
+        "count": 3
+    }
+}

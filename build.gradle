@@ -1,0 +1,75 @@
+buildscript {
+    repositories {
+        jcenter()
+        maven { url = "http://files.minecraftforge.net/maven" }
+    }
+    dependencies {
+        classpath "net.minecraftforge.gradle:ForgeGradle:2.3-SNAPSHOT"
+    }
+}
+
+apply plugin: "net.minecraftforge.gradle.forge"
+
+sourceCompatibility = targetCompatibility = "1.8"
+compileJava {
+    sourceCompatibility = targetCompatibility = "1.8"
+}
+
+repositories {
+    maven {
+        name = "CraftTweaker"
+        url = "http://maven.blamejared.com"
+    }
+    maven {
+        name = "JustEnoughItems"
+        url = "http://dvs1.progwml6.com/files/maven"
+    }
+    maven {
+        name = "TheOneProbe"
+        url = "https://maven.tterrag.com"
+    }
+    maven {
+        name = "WAILA/HWYLA"
+        url = "https://tehnut.info/maven"
+    }
+    maven {
+        name = "CurseForge"
+        url = "https://minecraft.curseforge.com/api/maven/"
+    }
+}
+
+group = "${MOD_GROUP}.${MOD_ID}"
+version = "${MOD_VERSION_MAJOR}.${MOD_VERSION_MINOR}.${MOD_VERSION_REVIS}"
+archivesBaseName = "${MOD_CLASS}-${VERSION_MINECRAFT}"
+
+minecraft {
+    version = "${VERSION_MINECRAFT}-${VERSION_FORGE}"
+    runDir = "run"
+    mappings = "${VERSION_MAPPINGS}"
+
+    replace "@VERSION@", project.version
+    replaceIn "${MOD_CLASS}.java"
+}
+
+dependencies {
+    deobfCompile "mezz.jei:jei_1.12.2:${VERSION_JEI}"
+    deobfCompile "CraftTweaker2:CraftTweaker2-MC1120-Main:1.12-${VERSION_CT}"
+    deobfCompile "mcjty.theoneprobe:TheOneProbe-1.12:1.12-${VERSION_TOP}"
+    deobfCompile "mcp.mobius.waila:Hwyla:${VERSION_WAILA}_1.12.2"
+
+    compile fileTree(dir: "lib", include: "*.jar")
+}
+
+processResources {
+    inputs.property "version", project.version
+    inputs.property "mcversion", project.minecraft.version
+
+    from(sourceSets.main.resources.srcDirs) {
+        include "mcmod.info"
+        expand "mcversion": project.minecraft.version, "version": project.version
+    }
+
+    from(sourceSets.main.resources.srcDirs) {
+        exclude "mcmod.info"
+    }
+}

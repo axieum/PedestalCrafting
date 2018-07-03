@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "GGG",
+        " D ",
+        "DSD"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:grass",
+            "data": 0
+        },
+        "S": {
+            "item": "minecraft:wheat_seeds",
+            "data": 0
+        },
+        "D": {
+            "item": "minecraft:dirt",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "pedestalcrafting:pedestal",
+        "data": 4,
+        "count": 3
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DDD",
+        " G ",
+        "GDG"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:glowstone",
+            "data": 0
+        },
+        "D": {
+            "item": "minecraft:glowstone_dust",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "pedestalcrafting:pedestal",
+        "data": 2,
+        "count": 3
+    }
+}

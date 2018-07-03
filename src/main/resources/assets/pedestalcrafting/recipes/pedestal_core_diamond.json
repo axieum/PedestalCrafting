@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "DDD",
+        "DBD",
+        "DBD"
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:diamond",
+            "data": 0
+        },
+        "B": {
+            "type": "forge:ore_dict",
+            "ore": "blockDiamond"
+        }
+    },
+    "result": {
+        "item": "pedestalcrafting:pedestal_core",
+        "data": 0,
+        "count": 1
+    }
+}

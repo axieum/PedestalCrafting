@@ -1,0 +1,145 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "pedestalcrafting:pedestal_core",
+        "transform": "forge:default-block"
+    },
+    "variants": {
+        "normal": [
+            {}
+        ],
+        "inventory": {
+            "transform": "forge:default-block"
+        },
+        "type": {
+            "grass": {
+                "textures": {
+                    "top": "blocks/grass_top",
+                    "ridge": "blocks/dirt",
+                    "base": "blocks/dirt",
+                    "particle": "blocks/dirt"
+                }
+            },
+            "glowstone": {
+                "textures": {
+                    "top": "blocks/glowstone",
+                    "ridge": "blocks/glowstone",
+                    "base": "blocks/glowstone",
+                    "particle": "blocks/glowstone"
+                }
+            },
+            "obsidian": {
+                "textures": {
+                    "top": "blocks/obsidian",
+                    "ridge": "blocks/obsidian",
+                    "base": "blocks/obsidian",
+                    "particle": "blocks/obsidian"
+                }
+            },
+            "quartzblock": {
+                "textures": {
+                    "top": "blocks/quartz_block_top",
+                    "ridge": "blocks/quartz_block_side",
+                    "base": "blocks/quartz_block_side",
+                    "particle": "blocks/quartz_block_top"
+                }
+            },
+            "sandstone": {
+                "textures": {
+                    "top": "blocks/sandstone_top",
+                    "ridge": "blocks/sandstone_bottom",
+                    "base": "blocks/sandstone_bottom",
+                    "particle": "blocks/sandstone_bottom"
+                }
+            },
+            "emerald": {
+                "textures": {
+                    "top": "blocks/emerald_block",
+                    "ridge": "blocks/emerald_block",
+                    "base": "blocks/emerald_block",
+                    "particle": "blocks/emerald_block"
+                }
+            },
+            "gold": {
+                "textures": {
+                    "top": "blocks/gold_block",
+                    "ridge": "blocks/gold_block",
+                    "base": "blocks/gold_block",
+                    "particle": "blocks/gold_block"
+                }
+            },
+            "iron": {
+                "textures": {
+                    "top": "blocks/iron_block",
+                    "ridge": "blocks/iron_block",
+                    "base": "blocks/iron_block",
+                    "particle": "blocks/iron_block"
+                }
+            },
+            "diamond": {
+                "textures": {
+                    "top": "blocks/diamond_block",
+                    "ridge": "blocks/diamond_block",
+                    "base": "blocks/diamond_block",
+                    "particle": "blocks/diamond_block"
+                }
+            },
+            "lapis": {
+                "textures": {
+                    "top": "blocks/lapis_block",
+                    "ridge": "blocks/lapis_block",
+                    "base": "blocks/lapis_block",
+                    "particle": "blocks/lapis_block"
+                }
+            },
+            "logoak": {
+                "textures": {
+                    "top": "blocks/log_oak_top",
+                    "ridge": "blocks/log_oak",
+                    "base": "blocks/log_oak",
+                    "particle": "blocks/log_oak"
+                }
+            },
+            "logspruce": {
+                "textures": {
+                    "top": "blocks/log_spruce_top",
+                    "ridge": "blocks/log_spruce",
+                    "base": "blocks/log_spruce",
+                    "particle": "blocks/log_spruce"
+                }
+            },
+            "logbirch": {
+                "textures": {
+                    "top": "blocks/log_birch_top",
+                    "ridge": "blocks/log_birch",
+                    "base": "blocks/log_birch",
+                    "particle": "blocks/log_birch"
+                }
+            },
+            "logjungle": {
+                "textures": {
+                    "top": "blocks/log_jungle_top",
+                    "ridge": "blocks/log_jungle",
+                    "base": "blocks/log_jungle",
+                    "particle": "blocks/log_jungle"
+                }
+            },
+            "logacacia": {
+                "textures": {
+                    "top": "blocks/log_acacia_top",
+                    "ridge": "blocks/log_acacia",
+                    "base": "blocks/log_acacia",
+                    "particle": "blocks/log_acacia"
+                }
+            },
+            "logbigoak": {
+                "textures": {
+                    "top": "blocks/log_big_oak_top",
+                    "ridge": "blocks/log_big_oak",
+                    "base": "blocks/log_big_oak",
+                    "particle": "blocks/log_big_oak"
+                }
+            }
+        }
+    }
+}

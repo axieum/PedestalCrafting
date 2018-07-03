@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        "IBI",
+        "IBI"
+    ],
+    "key": {
+        "I": {
+            "type": "forge:ore_dict",
+            "ore": "ingotIron"
+        },
+        "B": {
+            "type": "forge:ore_dict",
+            "ore": "blockIron"
+        }
+    },
+    "result": {
+        "item": "pedestalcrafting:pedestal_core",
+        "data": 5,
+        "count": 1
+    }
+}

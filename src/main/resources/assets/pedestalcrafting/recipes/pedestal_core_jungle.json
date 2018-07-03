@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+        "IBI",
+        "IBI"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:wooden_slab",
+            "data": 3
+        },
+        "I": {
+            "item": "minecraft:planks",
+            "data": 3
+        },
+        "B": {
+            "item": "minecraft:log",
+            "data": 3
+        }
+    },
+    "result": {
+        "item": "pedestalcrafting:pedestal_core",
+        "data": 10,
+        "count": 1
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "QQQ",
+        " B ",
+        "BQB"
+    ],
+    "key": {
+        "Q": {
+            "item": "minecraft:quartz"
+        },
+        "B": {
+            "type": "forge:ore_dict",
+            "ore": "blockQuartz"
+        }
+    },
+    "result": {
+        "item": "pedestalcrafting:pedestal",
+        "data": 14,
+        "count": 3
+    }
+}

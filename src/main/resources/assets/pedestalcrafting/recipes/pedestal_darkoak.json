@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+        " B ",
+        "BIB"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:wooden_slab",
+            "data": 5
+        },
+        "I": {
+            "item": "minecraft:planks",
+            "data": 5
+        },
+        "B": {
+            "item": "minecraft:log2",
+            "data": 1
+        }
+    },
+    "result": {
+        "item": "pedestalcrafting:pedestal",
+        "data": 8,
+        "count": 3
+    }
+}

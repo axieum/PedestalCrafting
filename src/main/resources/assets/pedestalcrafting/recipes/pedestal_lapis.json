@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "III",
+        " B ",
+        "BIB"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:dye",
+            "data": 4
+        },
+        "B": {
+            "type": "forge:ore_dict",
+            "ore": "blockLapis"
+        }
+    },
+    "result": {
+        "item": "pedestalcrafting:pedestal",
+        "data": 6,
+        "count": 3
+    }
+}

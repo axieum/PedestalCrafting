@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "IBI",
+        "IBI"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:sand",
+            "data": 0
+        },
+        "B": {
+            "item": "minecraft:sandstone",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "pedestalcrafting:pedestal_core",
+        "data": 15,
+        "count": 1
+    }
+}

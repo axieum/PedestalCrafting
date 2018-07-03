@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EEE",
+        " B ",
+        "BEB"
+    ],
+    "key": {
+        "E": {
+            "item": "minecraft:emerald",
+            "data": 0
+        },
+        "B": {
+            "type": "forge:ore_dict",
+            "ore": "blockEmerald"
+        }
+    },
+    "result": {
+        "item": "pedestalcrafting:pedestal",
+        "data": 1,
+        "count": 3
+    }
+}
