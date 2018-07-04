@@ -13,6 +13,11 @@
         "credits": "jaredlll08 for the CraftTweaker mod; mezz for the Just Enough Items mod",
         "logoFile": "",
         "screenshots": [],
-        "dependencies": []
+        "dependencies": [
+            "crafttweaker",
+            "jei",
+            "theoneprobe",
+            "waila"
+        ]
     }
 ]

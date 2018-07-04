@@ -32,7 +32,7 @@ public class PedestalCrafting
     public static final String MOD_ID = "pedestalcrafting";
     public static final String MOD_NAME = "Pedestal Crafting";
     public static final String MOD_VERSION = "@VERSION@";
-    public static final String MOD_DEPENDENCIES = "required-after: crafttweaker; after: jei";
+    public static final String MOD_DEPENDENCIES = "after: crafttweaker; after: jei; after: theoneprobe; after:waila;";
 
     @Mod.Instance(PedestalCrafting.MOD_ID)
     public static PedestalCrafting instance;
