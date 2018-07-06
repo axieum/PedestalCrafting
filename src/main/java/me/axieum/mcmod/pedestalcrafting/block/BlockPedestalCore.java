@@ -1,11 +1,6 @@
 package me.axieum.mcmod.pedestalcrafting.block;
 
-import mcjty.theoneprobe.api.IProbeHitData;
-import mcjty.theoneprobe.api.IProbeInfo;
-import mcjty.theoneprobe.api.ProbeMode;
 import me.axieum.mcmod.pedestalcrafting.PedestalCrafting;
-import me.axieum.mcmod.pedestalcrafting.compat.theoneprobe.TOPCompat;
-import me.axieum.mcmod.pedestalcrafting.recipe.PedestalRecipe;
 import me.axieum.mcmod.pedestalcrafting.tile.TilePedestalCore;
 import me.axieum.mcmod.pedestalcrafting.util.BlockTileBase;
 import me.axieum.mcmod.pedestalcrafting.util.IEnumVariant;
@@ -23,7 +18,6 @@ import net.minecraft.init.SoundEvents;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemMultiTexture;
 import net.minecraft.item.ItemStack;
-import net.minecraft.tileentity.TileEntity;
 import net.minecraft.util.EnumFacing;
 import net.minecraft.util.EnumHand;
 import net.minecraft.util.NonNullList;
@@ -45,7 +39,7 @@ import net.minecraftforge.items.IItemHandler;
 import javax.annotation.Nullable;
 
 @Mod.EventBusSubscriber
-public class BlockPedestalCore extends BlockTileBase<TilePedestalCore> implements TOPCompat.TOPInfoProvider
+public class BlockPedestalCore extends BlockTileBase<TilePedestalCore>
 {
     public BlockPedestalCore(String name)
     {
@@ -320,33 +314,5 @@ public class BlockPedestalCore extends BlockTileBase<TilePedestalCore> implement
     public TilePedestalCore createTileEntity(World world, IBlockState state)
     {
         return new TilePedestalCore();
-    }
-
-
-    /**
-     * The One Probe Compat
-     */
-
-    @Override
-    public void addProbeInfo(ProbeMode mode, IProbeInfo probeInfo, EntityPlayer player, World world, IBlockState blockState, IProbeHitData data)
-    {
-        TileEntity te = world.getTileEntity(data.getPos());
-        if (!(te instanceof TilePedestalCore))
-            return;
-
-        TilePedestalCore pedestal = (TilePedestalCore) te;
-        PedestalRecipe recipe = pedestal.getRecipe();
-
-        if (recipe != null)
-            probeInfo.horizontal(probeInfo.defaultLayoutStyle().borderColor(mcjty.theoneprobe.config.Config.chestContentsBorderColor))
-                     .item(recipe.getOutput())
-                     .progress(
-                             (long) (pedestal.elapsed / (double) recipe.getTicks() * 100D),
-                             100L,
-                             probeInfo.defaultProgressStyle().suffix("%")
-                     );
-        else if (pedestal.pedestalCount > 0)
-            probeInfo.horizontal(probeInfo.defaultLayoutStyle().borderColor(mcjty.theoneprobe.config.Config.chestContentsBorderColor))
-                     .text("Pedestals: " + pedestal.pedestalCount);
     }
 }

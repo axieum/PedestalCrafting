@@ -2,8 +2,12 @@ package me.axieum.mcmod.pedestalcrafting.compat.theoneprobe;
 
 import mcjty.theoneprobe.api.*;
 import me.axieum.mcmod.pedestalcrafting.PedestalCrafting;
+import me.axieum.mcmod.pedestalcrafting.block.BlockPedestalCore;
+import me.axieum.mcmod.pedestalcrafting.recipe.PedestalRecipe;
+import me.axieum.mcmod.pedestalcrafting.tile.TilePedestalCore;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.tileentity.TileEntity;
 import net.minecraft.world.World;
 import net.minecraftforge.fml.common.event.FMLInterModComms;
 
@@ -48,19 +52,30 @@ public class TOPCompat
                 @Override
                 public void addProbeInfo(ProbeMode mode, IProbeInfo probeInfo, EntityPlayer player, World world, IBlockState blockState, IProbeHitData data)
                 {
-                    if (blockState.getBlock() instanceof TOPInfoProvider)
+                    if (blockState.getBlock() instanceof BlockPedestalCore)
                     {
-                        TOPInfoProvider provider = (TOPInfoProvider) blockState.getBlock();
-                        provider.addProbeInfo(mode, probeInfo, player, world, blockState, data);
+                        TileEntity te = world.getTileEntity(data.getPos());
+                        if (!(te instanceof TilePedestalCore))
+                            return;
+
+                        TilePedestalCore pedestal = (TilePedestalCore) te;
+                        PedestalRecipe recipe = pedestal.getRecipe();
+
+                        if (recipe != null)
+                            probeInfo.horizontal(probeInfo.defaultLayoutStyle().borderColor(mcjty.theoneprobe.config.Config.chestContentsBorderColor))
+                                     .item(recipe.getOutput())
+                                     .progress(
+                                             (long) (pedestal.elapsed / (double) recipe.getTicks() * 100D),
+                                             100L,
+                                             probeInfo.defaultProgressStyle().suffix("%")
+                                     );
+                        else if (pedestal.pedestalCount > 0)
+                            probeInfo.horizontal(probeInfo.defaultLayoutStyle().borderColor(mcjty.theoneprobe.config.Config.chestContentsBorderColor))
+                                     .text("Pedestals: " + pedestal.pedestalCount);
                     }
                 }
             });
             return null;
         }
-    }
-
-    public interface TOPInfoProvider
-    {
-        void addProbeInfo(ProbeMode mode, IProbeInfo probeInfo, EntityPlayer player, World world, IBlockState blockState, IProbeHitData data);
     }
 }
