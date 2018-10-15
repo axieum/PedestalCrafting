@@ -1,0 +1,44 @@
+# GUI
+itemGroup.pedestalcrafting=Pedestal Crafting
+
+config.displaySpeed=Affichage de la vitesse
+config.displaySpeed.tooltip=Vitesse à laquel les éléments tournent, s'élèvent et tombent sur les piédestal - rotations/sec
+
+gui.jei.category.pedestal=Piédestal
+
+# Items
+tile.pedestal.name=Piédestal
+tile.pedestal.diamond.name=Piédestal en diamant
+tile.pedestal.emerald.name=Piédestal en émeraude
+tile.pedestal.glowstone.name=Piédestal en pierre lumineuse
+tile.pedestal.gold.name=Piédestal en or
+tile.pedestal.grass.name=Piédestal en herbe
+tile.pedestal.iron.name=Piédestal en fer
+tile.pedestal.lapis.name=Piédestal en lapis
+tile.pedestal.logacacia.name=Piédestal en bois d'accacias
+tile.pedestal.logbigoak.name=Piédestal en bois de chêne foncé
+tile.pedestal.logbirch.name=Piédestal en bois de bouleau
+tile.pedestal.logjungle.name=Piédestal en bois tropical
+tile.pedestal.logoak.name=Piédestal en bois de chêne
+tile.pedestal.logspruce.name=Piédestal en bois d'épicéa
+tile.pedestal.obsidian.name=Piédestal en obsidienne
+tile.pedestal.quartzblock.name=Piédestal en quartz
+tile.pedestal.sandstone.name=Piédestal en grès
+
+tile.pedestal_core.name=Piédestal principal
+tile.pedestal_core.diamond.name=Piédestal principal en diamant
+tile.pedestal_core.emerald.name=Piédestal principal en émeraude
+tile.pedestal_core.glowstone.name=Piédestal principal en pierre lumineuse
+tile.pedestal_core.gold.name=Piédestal principal en or
+tile.pedestal_core.grass.name=Piédestal principal en herbe
+tile.pedestal_core.iron.name=Piédestal principal en fer
+tile.pedestal_core.lapis.name=Piédestal principal en lapis
+tile.pedestal_core.logacacia.name=Piédestal principal en bois d'accacias
+tile.pedestal_core.logbigoak.name=Piédestal principal en bois de chêne foncé
+tile.pedestal_core.logbirch.name=Piédestal principal en bois de bouleau
+tile.pedestal_core.logjungle.name=Piédestal principal en bois tropical
+tile.pedestal_core.logoak.name=Piédestal principal en bois de chêne
+tile.pedestal_core.logspruce.name=Piédestal principal en bois d'épicéa
+tile.pedestal_core.obsidian.name=Piédestal principal en obsidienne
+tile.pedestal_core.quartzblock.name=Piédestal principal en quartz
+tile.pedestal_core.sandstone.name=Piédestal principal en grès
