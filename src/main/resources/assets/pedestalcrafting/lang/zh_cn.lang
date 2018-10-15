@@ -1,0 +1,44 @@
+# GUI
+itemGroup.pedestalcrafting=Pedestal Crafting
+
+config.displaySpeed=物品旋转速度
+config.displaySpeed.tooltip=物品在基座上旋转, 上升和下降的速度-转/秒
+
+gui.jei.category.pedestal=基座
+
+# Items
+tile.pedestal.name=基座
+tile.pedestal.diamond.name=钻石基座
+tile.pedestal.emerald.name=绿宝石基座
+tile.pedestal.glowstone.name=萤石基座
+tile.pedestal.gold.name=金制基座
+tile.pedestal.grass.name=土制基座
+tile.pedestal.iron.name=铁制基座
+tile.pedestal.lapis.name=青金石基座
+tile.pedestal.logacacia.name=金合欢木基座
+tile.pedestal.logbigoak.name=深色橡木基座
+tile.pedestal.logbirch.name=白桦木基座
+tile.pedestal.logjungle.name=丛林木基座
+tile.pedestal.logoak.name=橡木基座
+tile.pedestal.logspruce.name=云杉木基座
+tile.pedestal.obsidian.name=黑曜石基座
+tile.pedestal.quartzblock.name=石英基座
+tile.pedestal.sandstone.name=砂岩基座
+
+tile.pedestal_core.name=基座核心
+tile.pedestal_core.diamond.name=钻石基座核心
+tile.pedestal_core.emerald.name=绿宝石基座核心
+tile.pedestal_core.glowstone.name=萤石基座核心
+tile.pedestal_core.gold.name=金制基座核心
+tile.pedestal_core.grass.name=土制基座核心
+tile.pedestal_core.iron.name=铁制基座核心
+tile.pedestal_core.lapis.name=青金石基座核心
+tile.pedestal_core.logacacia.name=金合欢木基座核心
+tile.pedestal_core.logbigoak.name=深色橡木基座核心
+tile.pedestal_core.logbirch.name=白桦木基座核心
+tile.pedestal_core.logjungle.name=丛林木基座核心
+tile.pedestal_core.logoak.name=橡木基座核心
+tile.pedestal_core.logspruce.name=云杉木基座核心
+tile.pedestal_core.obsidian.name=黑曜石基座核心
+tile.pedestal_core.quartzblock.name=石英基座核心
+tile.pedestal_core.sandstone.name=砂岩基座核心
