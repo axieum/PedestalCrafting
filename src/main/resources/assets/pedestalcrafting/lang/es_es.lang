@@ -1,0 +1,44 @@
+# GUI
+itemGroup.pedestalcrafting=Elaboración de pedestales
+
+config.displaySpeed=Velocidad de visualización del artículo
+config.displaySpeed.tooltip=La velocidad a la que los elementos giran, suben y bajan en los pedestales - rotaciones/seg.
+
+gui.jei.category.pedestal=Pedestal
+
+# Items
+tile.pedestal.name=Pedestal
+tile.pedestal.diamond.name=Pedestal de Diamante
+tile.pedestal.emerald.name=Pedestal de Esmeralda 
+tile.pedestal.glowstone.name=Pedestal de Piedra Luminosa
+tile.pedestal.gold.name=Pedestal de Oro
+tile.pedestal.grass.name=Pedestal de Pasto
+tile.pedestal.iron.name=Pedestal de Hierro
+tile.pedestal.lapis.name=Pedestal de Lapis
+tile.pedestal.logacacia.name=Pedestal de Madera de Acacia
+tile.pedestal.logbigoak.name=Pedestal de Roble Oscuro
+tile.pedestal.logbirch.name=Pedestal de Madera de Abedul
+tile.pedestal.logjungle.name=Pedestal de Madera de la Selva
+tile.pedestal.logoak.name=Pedestal de Madera de Roble
+tile.pedestal.logspruce.name=Pedestal de Madera de Abeto
+tile.pedestal.obsidian.name=Pedestal de Obsidiana
+tile.pedestal.quartzblock.name=Pedestal de Cuarzo
+tile.pedestal.sandstone.name=Pedestal de Arenisca
+
+tile.pedestal_core.name=Núcleo de Pedestal
+tile.pedestal_core.diamond.name=Núcleo de Pedestal de Diamante
+tile.pedestal_core.emerald.name=Núcleo de Pedestal de Esmeralda 
+tile.pedestal_core.glowstone.name=Núcleo de Pedestal de Piedra Luminosa
+tile.pedestal_core.gold.name=Núcleo de Pedestal de Oro
+tile.pedestal_core.grass.name=Núcleo de Pedestal de Pasto
+tile.pedestal_core.iron.name=Núcleo de Pedestal de Hierro
+tile.pedestal_core.lapis.name=Núcleo de Pedestal de Lapis
+tile.pedestal_core.logacacia.name=Núcleo de Pedestal de Madera de Acacia
+tile.pedestal_core.logbigoak.name=Núcleo de Pedestal de Roble Oscuro
+tile.pedestal_core.logbirch.name=Núcleo de Pedestal de Madera de Abedul
+tile.pedestal_core.logjungle.name=Núcleo de Pedestal de Madera de la Selva
+tile.pedestal_core.logoak.name=Núcleo de Pedestal de Madera de Roble
+tile.pedestal_core.logspruce.name=Núcleo de Pedestal de Madera de Abeto
+tile.pedestal_core.obsidian.name=Núcleo de Pedestal de Obsidiana
+tile.pedestal_core.quartzblock.name=Núcleo de Pedestal de Cuarzo
+tile.pedestal_core.sandstone.name=Núcleo de Pedestal de Arenisca
