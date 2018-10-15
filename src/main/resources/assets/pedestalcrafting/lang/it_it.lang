@@ -1,0 +1,44 @@
+# GUI
+itemGroup.pedestalcrafting=Fabbricazione Piedistalli
+
+config.displaySpeed=Velocità visualizzazione oggetti
+config.displaySpeed.tooltip=La velocità con cui gli oggetti ruotano, salgono e scendono sui piedistalli - rotazioni/sec
+
+gui.jei.category.pedestal=Piedistallo
+
+# Items
+tile.pedestal.name=Piedistallo
+tile.pedestal.diamond.name=Piedistallo di Diamante
+tile.pedestal.emerald.name=Piedistallo di Smeraldo
+tile.pedestal.glowstone.name=Piedistallo di Luminite
+tile.pedestal.gold.name=Piedistallo d'Oro
+tile.pedestal.grass.name=Piedistallo d'Erba
+tile.pedestal.iron.name=Piedistallo di Ferro
+tile.pedestal.lapis.name=Piedistallo di Lapislazzuli
+tile.pedestal.logacacia.name=Piedistallo di Legno di Acacia
+tile.pedestal.logbigoak.name=Piedistallo di Legno di Quercia Scura
+tile.pedestal.logbirch.name=Piedistallo di Legno di Betulla
+tile.pedestal.logjungle.name=Piedistallo di Legno della Giungla
+tile.pedestal.logoak.name=Piedistallo di Legno di Quercia
+tile.pedestal.logspruce.name=Piedistallo di Legno di Abete
+tile.pedestal.obsidian.name=Piedistallo di Ossidiana
+tile.pedestal.quartzblock.name=Piedistallo di Quarzo
+tile.pedestal.sandstone.name=Piedistallo di Arenaria
+
+tile.pedestal_core.name=Nucleo Piedistallo
+tile.pedestal_core.diamond.name=Nucleo Piedistallo di Diamante
+tile.pedestal_core.emerald.name=Nucleo Piedistallo di Smeraldo
+tile.pedestal_core.glowstone.name=Nucleo Piedistallo di Luminite
+tile.pedestal_core.gold.name=Nucleo Piedistallo d'Oro
+tile.pedestal_core.grass.name=Nucleo Piedistallo d'Erba
+tile.pedestal_core.iron.name=Nucleo Piedistallo di Ferro
+tile.pedestal_core.lapis.name=Nucleo Piedistallo di Lapislazzuli
+tile.pedestal_core.logacacia.name=Nucleo Piedistallo di Legno di Acacia
+tile.pedestal_core.logbigoak.name=Nucleo Piedistallo di Legno di Quercia Scura
+tile.pedestal_core.logbirch.name=Nucleo Piedistallo di Legno di Betulla
+tile.pedestal_core.logjungle.name=Nucleo Piedistallo di Legno della Giungla
+tile.pedestal_core.logoak.name=Nucleo Piedistallo di Legno di Quercia
+tile.pedestal_core.logspruce.name=Nucleo Piedistallo di Legno di Abete
+tile.pedestal_core.obsidian.name=Nucleo Piedistallo di Ossidiana
+tile.pedestal_core.quartzblock.name=Nucleo Piedistallo di Quarzo
+tile.pedestal_core.sandstone.name=Nucleo Piedistallo di Arenaria
