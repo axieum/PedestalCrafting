@@ -1,0 +1,44 @@
+# GUI
+itemGroup.pedestalcrafting=صنع الركيزة
+
+config.displaySpeed=سرعة عرض العنصر
+config.displaySpeed.tooltip= السرعة التي تدور بها العناصر ، ترتفع وتسقط على الركائز - دورة/ثانية
+
+gui.jei.category.pedestal=ركيزة
+
+# Items
+tile.pedestal.name=ركيزة
+tile.pedestal.diamond.name=ركيزة ماسية
+tile.pedestal.emerald.name=ركيزة زمردية
+tile.pedestal.glowstone.name=ركيزة من الحجر المتوهج
+tile.pedestal.gold.name=ركيزة ذهبية
+tile.pedestal.grass.name=ركيزة عشبية
+tile.pedestal.iron.name=ركيزة حديدية
+tile.pedestal.lapis.name=ركيزة لازوردية
+tile.pedestal.logacacia.name=ركيزة من خشب السنط
+tile.pedestal.logbigoak.name=ركيزة من خشب البلوط الداكن
+tile.pedestal.logbirch.name=ركيزة من الخشب الخام
+tile.pedestal.logjungle.name=ركيزة من خشب الغابة
+tile.pedestal.logoak.name=ركيزة من خشب البلوط
+tile.pedestal.logspruce.name=ركيزة من خشب الصنوبر
+tile.pedestal.obsidian.name=ركيزة من الزجاج البركاني
+tile.pedestal.quartzblock.name=ركيزة من الكوارتز
+tile.pedestal.sandstone.name=ركيزة من الحجر الرملي
+
+tile.pedestal_core.name=ركيزة اساسية
+tile.pedestal_core.diamond.name=ركيزة اساسية ماسية
+tile.pedestal_core.emerald.name=ركيزة اساسية زمردية
+tile.pedestal_core.glowstone.name=ركيزة اساسية من الحجر المتوهج
+tile.pedestal_core.gold.name=ركيزة اساسية ذهبية
+tile.pedestal_core.grass.name=ركيزة اساسية عشبية
+tile.pedestal_core.iron.name=ركيزة اساسية حديدية
+tile.pedestal_core.lapis.name=ركيزة اساسية لازوردية
+tile.pedestal_core.logacacia.name=ركيزة اساسية من خشب السنط
+tile.pedestal_core.logbigoak.name=ركيزة اساسية من خشب البلوط الداكن
+tile.pedestal_core.logbirch.name=ركيزة اساسية من الخشب الخام
+tile.pedestal_core.logjungle.name=ركيزة اساسية من خشب الغابة
+tile.pedestal_core.logoak.name=ركيزة اساسية من خشب البلوط
+tile.pedestal_core.logspruce.name=ركيزة اساسية من خشب الصنوبر
+tile.pedestal_core.obsidian.name=ركيزة اساسية من الزجاج البركاني
+tile.pedestal_core.quartzblock.name=ركيزة اساسية من الكوارتز
+tile.pedestal_core.sandstone.name=ركيزة اساسية من الحجر الرملي
