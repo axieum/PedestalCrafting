@@ -1,0 +1,44 @@
+# GUI
+itemGroup.pedestalcrafting=Sockelherstellung
+
+config.displaySpeed=Item Anzeige Geschwindigkeit
+config.displaySpeed.tooltip=Die Geschwindigkeit mit der die Items auf den Sockeln rotieren, steigen und fallen - rotationen/sekunde
+
+gui.jei.category.pedestal=Sockel
+
+# Items
+tile.pedestal.name=Sockel
+tile.pedestal.diamond.name=Diamantsockel
+tile.pedestal.emerald.name=Smaragdsockel
+tile.pedestal.glowstone.name=Glowstonesockel
+tile.pedestal.gold.name=Goldsockel
+tile.pedestal.grass.name=Graßsockel
+tile.pedestal.iron.name=Eisensockel
+tile.pedestal.lapis.name=Lapislazulisockel
+tile.pedestal.logacacia.name=Akazienholzsockel
+tile.pedestal.logbigoak.name=Dunkeleichenholzsockel
+tile.pedestal.logbirch.name=Birkenholzsockel
+tile.pedestal.logjungle.name=Dschungelholzsockel
+tile.pedestal.logoak.name=Eichenholzsockel
+tile.pedestal.logspruce.name=Fichtenholzsockel
+tile.pedestal.obsidian.name=Obsidiansockel
+tile.pedestal.quartzblock.name=Quartzsockel
+tile.pedestal.sandstone.name=Sandsteinsockel
+
+tile.pedestal_core.name=Sockelkern
+tile.pedestal_core.diamond.name=Diamantsockelkern
+tile.pedestal_core.emerald.name=Smaragdsockelkern
+tile.pedestal_core.glowstone.name=Glowstonesockelkern
+tile.pedestal_core.gold.name=Goldsockelkern
+tile.pedestal_core.grass.name=Graßsockelkern
+tile.pedestal_core.iron.name=Eisensockelkern
+tile.pedestal_core.lapis.name=Lapislazulisockelkern
+tile.pedestal_core.logacacia.name=Akazienholzsockelkern
+tile.pedestal_core.logbigoak.name=Dunkeleichenholzsockelkern
+tile.pedestal_core.logbirch.name=Birkenholzsockelkern
+tile.pedestal_core.logjungle.name=Dschungelholzsockelkern
+tile.pedestal_core.logoak.name=Eichenholzsockelkern
+tile.pedestal_core.logspruce.name=Fichtenholzsockelkern
+tile.pedestal_core.obsidian.name=Obsidiansockelkern
+tile.pedestal_core.quartzblock.name=Quartzsockelkern
+tile.pedestal_core.sandstone.name=Sandsteinsockelkern
