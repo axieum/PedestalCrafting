@@ -1,0 +1,44 @@
+# GUI
+itemGroup.pedestalcrafting=Pedestal Artesanal
+
+config.displaySpeed=Velocidade de Exibição do Item
+config.displaySpeed.tooltip=Velocidade com que os itens giram, sobem e descem nos pedestais - rotações/seg.
+
+gui.jei.category.pedestal=Pedestal
+
+# Items
+tile.pedestal.name=Pedestal
+tile.pedestal.diamond.name=Pedestal Diamante
+tile.pedestal.emerald.name=Pedestal Esmeralda
+tile.pedestal.glowstone.name=Pedestal Pedra Luminosa
+tile.pedestal.gold.name=Pedestal Ouro
+tile.pedestal.grass.name=Pedestal Grama
+tile.pedestal.iron.name=Pedestal Ferro
+tile.pedestal.lapis.name=Pedestal Lapis
+tile.pedestal.logacacia.name=Pedestal Madeira Acacia
+tile.pedestal.logbigoak.name=Pedestal Madeira Carvalho Escuro
+tile.pedestal.logbirch.name=Pedestal Madeira Bétula
+tile.pedestal.logjungle.name=Pedestal Madeira Florestal
+tile.pedestal.logoak.name=Pedestal Madeira Carvalho
+tile.pedestal.logspruce.name=Pedestal Madeira Abeto
+tile.pedestal.obsidian.name=Pedestal Obsidiana
+tile.pedestal.quartzblock.name=Pedestal de Quartzo
+tile.pedestal.sandstone.name=Pedestal de Arenito
+
+tile.pedestal_core.name=Pedestal Core
+tile.pedestal_core.diamond.name=Pedestal Diamante Core
+tile.pedestal_core.emerald.name=Pedestal Esmeralda Core
+tile.pedestal_core.glowstone.name=Pedestal Pedra Luminosa Core
+tile.pedestal_core.gold.name=Pedestal Ouro Core
+tile.pedestal_core.grass.name=Pedestal Grama Core
+tile.pedestal_core.iron.name=Pedestal Ferro Core
+tile.pedestal_core.lapis.name=Pedestal Lapis Core
+tile.pedestal_core.logacacia.name=Pedestal Madeira Acacia Core
+tile.pedestal_core.logbigoak.name=Pedestal Madeira Carvalho Escuro Core
+tile.pedestal_core.logbirch.name=Pedestal Madeira Bétula Core
+tile.pedestal_core.logjungle.name=Pedestal Madeira Florestal Core
+tile.pedestal_core.logoak.name=Pedestal Madeira Carvalho Core
+tile.pedestal_core.logspruce.name=Pedestal Madeira Abeto Core
+tile.pedestal_core.obsidian.name=Pedestal Obsidiana Core
+tile.pedestal_core.quartzblock.name=Pedestal de Quartzo Core
+tile.pedestal_core.sandstone.name=Pedestal de Arenito Core
