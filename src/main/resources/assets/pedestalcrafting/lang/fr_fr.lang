@@ -2,7 +2,7 @@
 itemGroup.pedestalcrafting=Pedestal Crafting
 
 config.displaySpeed=Affichage de la vitesse
-config.displaySpeed.tooltip=Vitesse à laquel les éléments tournent, s'élèvent et tombent sur les piédestal - rotations/sec
+config.displaySpeed.tooltip=Vitesse à laquelle les éléments tournent, s'élèvent et tombent sur les piédestal - rotations/sec
 
 gui.jei.category.pedestal=Piédestal
 
@@ -15,7 +15,7 @@ tile.pedestal.gold.name=Piédestal en or
 tile.pedestal.grass.name=Piédestal en herbe
 tile.pedestal.iron.name=Piédestal en fer
 tile.pedestal.lapis.name=Piédestal en lapis
-tile.pedestal.logacacia.name=Piédestal en bois d'accacias
+tile.pedestal.logacacia.name=Piédestal en bois d'acacia
 tile.pedestal.logbigoak.name=Piédestal en bois de chêne foncé
 tile.pedestal.logbirch.name=Piédestal en bois de bouleau
 tile.pedestal.logjungle.name=Piédestal en bois tropical
@@ -33,7 +33,7 @@ tile.pedestal_core.gold.name=Piédestal principal en or
 tile.pedestal_core.grass.name=Piédestal principal en herbe
 tile.pedestal_core.iron.name=Piédestal principal en fer
 tile.pedestal_core.lapis.name=Piédestal principal en lapis
-tile.pedestal_core.logacacia.name=Piédestal principal en bois d'accacias
+tile.pedestal_core.logacacia.name=Piédestal principal en bois d'acacia
 tile.pedestal_core.logbigoak.name=Piédestal principal en bois de chêne foncé
 tile.pedestal_core.logbirch.name=Piédestal principal en bois de bouleau
 tile.pedestal_core.logjungle.name=Piédestal principal en bois tropical
