@@ -1,0 +1,44 @@
+# GUI
+itemGroup.pedestalcrafting=Piedestal Tillverkning
+
+config.displaySpeed=Item Display Speed
+config.displaySpeed.tooltip=Med farten som föremål roterar, stiger och faller på pedestalerna - rotationer/sekund
+
+gui.jei.category.pedestal=Piedestal
+
+# Items
+tile.pedestal.name=Piedestal
+tile.pedestal.diamond.name=Diamantpiedestal
+tile.pedestal.emerald.name=Emeraldpiedestal
+tile.pedestal.glowstone.name=Ljusstensdammspiedestal
+tile.pedestal.gold.name=Guldpiedestal
+tile.pedestal.grass.name=Gräspiedestal
+tile.pedestal.iron.name=Järnpiedestal
+tile.pedestal.lapis.name=Lapispiedestal
+tile.pedestal.logacacia.name=Acaciaträdpiedestal
+tile.pedestal.logbigoak.name=Mörk ekpiedestal
+tile.pedestal.logbirch.name=Björkträdspiedestal
+tile.pedestal.logjungle.name=Djungelträdspiedestal
+tile.pedestal.logoak.name=Ekpiedestal
+tile.pedestal.logspruce.name=Granpiedestal
+tile.pedestal.obsidian.name=Obsidian piedestal
+tile.pedestal.quartzblock.name=Kvartspiedestal
+tile.pedestal.sandstone.name=Sandstenpiedestal
+
+tile.pedestal_core.name=Piedestalkärna
+tile.pedestal_core.diamond.name=Diamant Piedestal kärna
+tile.pedestal_core.emerald.name=Emerald Piedestal Core
+tile.pedestal_core.glowstone.name=Ljusstensdamms Piedestal Core
+tile.pedestal_core.gold.name=Guld Piedestal Core
+tile.pedestal_core.grass.name=Gräs Piedestal Core
+tile.pedestal_core.iron.name=Järn Piedestal Core
+tile.pedestal_core.lapis.name=Lapis Piedestal Core
+tile.pedestal_core.logacacia.name=Acaciaträ Piedestal Core
+tile.pedestal_core.logbigoak.name=Mörk Ekträd Piedestal Core
+tile.pedestal_core.logbirch.name=Björkträd Piedestal Core
+tile.pedestal_core.logjungle.name=Djnugelträd Piedestal Core
+tile.pedestal_core.logoak.name=Ekträd Piedestal Core
+tile.pedestal_core.logspruce.name=Granträd Piedestal Core
+tile.pedestal_core.obsidian.name=Obsidian Piedestal Core
+tile.pedestal_core.quartzblock.name=Kvarts Piedestal Core
+tile.pedestal_core.sandstone.name=Sandsten Piedestal Core
