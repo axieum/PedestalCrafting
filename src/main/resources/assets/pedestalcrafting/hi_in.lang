@@ -1,0 +1,44 @@
+# GUI
+itemGroup.pedestalcrafting=मूर्तितल कारीगरी
+
+config.displaySpeed=आइटम प्रदर्शन गति
+config.displaySpeed.tooltip=जिस गति पर आइटम मूर्तितल पर उतार-चढ़ाव और घूमते हैं - रोटेशन/सेकंड
+
+gui.jei.category.pedestal=मूर्तितल
+
+# Items
+tile.pedestal.name=मूर्तितल
+tile.pedestal.diamond.name=हीरे का मूर्तितल
+tile.pedestal.emerald.name=एमरल्ड का मूर्तितल
+tile.pedestal.glowstone.name=चमकपत्थर का मूर्तितल
+tile.pedestal.gold.name=सोने का मूर्तितल
+tile.pedestal.grass.name=घास का मूर्तितल
+tile.pedestal.iron.name=लोहा का मूर्तितल
+tile.pedestal.lapis.name=लापीस का मूर्तितल
+tile.pedestal.logacacia.name=बादाम लकड़ी का मूर्तितल
+tile.pedestal.logbigoak.name=काला बलूत लकड़ी का मूर्तितल
+tile.pedestal.logbirch.name=भोज वृक्ष लकड़ी का मूर्तितल
+tile.pedestal.logjungle.name=जंगल लकड़ी का मूर्तितल
+tile.pedestal.logoak.name=बलूत लकड़ी का मूर्तितल
+tile.pedestal.logspruce.name=प्रसरल लकड़ी का मूर्तितल
+tile.pedestal.obsidian.name=लावा काँच का मूर्तितल
+tile.pedestal.quartzblock.name=बिल्लोरी काँच का मूर्तितल
+tile.pedestal.sandstone.name=बलुआ पत्थरच का मूर्तितल
+
+tile.pedestal_core.name=मूर्तितल का अन्तर्भाग
+tile.pedestal_core.diamond.name=हीरे के मूर्तितल का अन्तर्भाग
+tile.pedestal_core.emerald.name=एमरल्ड के मूर्तितल का अन्तर्भाग
+tile.pedestal_core.glowstone.name=चमकपत्थर के मूर्तितल का अन्तर्भाग
+tile.pedestal_core.gold.name=सोने के मूर्तितल का अन्तर्भाग
+tile.pedestal_core.grass.name=घास के मूर्तितल का अन्तर्भाग
+tile.pedestal_core.iron.name=लोहा के मूर्तितल का अन्तर्भाग
+tile.pedestal_core.lapis.name=लापीस के मूर्तितल का अन्तर्भाग
+tile.pedestal_core.logacacia.name=बादाम लकड़ी के मूर्तितल का अन्तर्भाग
+tile.pedestal_core.logbigoak.name= काला बलूत लकड़ी के मूर्तितल का अन्तर्भाग
+tile.pedestal_core.logbirch.name=भोज वृक्ष लकड़ी के मूर्तितल का अन्तर्भाग
+tile.pedestal_core.logjungle.name=जंगल लकड़ी के मूर्तितल का अन्तर्भाग
+tile.pedestal_core.logoak.name=बलूत लकड़ी के मूर्तितल का अन्तर्भाग
+tile.pedestal_core.logspruce.name=प्रसरल लकड़ीके मूर्तितल का अन्तर्भाग
+tile.pedestal_core.obsidian.name=लावा काँच के मूर्तितल का अन्तर्भाग
+tile.pedestal_core.quartzblock.name=बिल्लोरी काँच के मूर्तितल का अन्तर्भाग
+tile.pedestal_core.sandstone.name=बलुआ पत्थर के मूर्तितल का अन्तर्भाग
