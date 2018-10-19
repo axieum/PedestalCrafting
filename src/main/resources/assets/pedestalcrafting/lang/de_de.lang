@@ -1,0 +1,44 @@
+# GUI
+itemGroup.pedestalcrafting=Podest Crafting
+
+config.displaySpeed=Item Display Geschwindigkeit
+config.displaySpeed.tooltip=Die Geschwindigkeit in der die Items auf dem Podest rotieren, aufsteigen und fallen - rotation/sek.
+
+gui.jei.category.pedestal=Podest
+
+# Items
+tile.pedestal.name=Podest
+tile.pedestal.diamond.name=Diamant Podest
+tile.pedestal.emerald.name=Smaragt Podest
+tile.pedestal.glowstone.name=Glowstone Podest
+tile.pedestal.gold.name=Gold Podest
+tile.pedestal.grass.name=Grass Podest
+tile.pedestal.iron.name=Eisen Podest
+tile.pedestal.lapis.name=Lapis Podest
+tile.pedestal.logacacia.name=Akazienholz Podest
+tile.pedestal.logbigoak.name=Dunkles Eichenholz Podest
+tile.pedestal.logbirch.name=Birkenholz Podest
+tile.pedestal.logjungle.name=Tropenholz Podest
+tile.pedestal.logoak.name=Eichenholz Podest
+tile.pedestal.logspruce.name=Fichtenholz Podest
+tile.pedestal.obsidian.name=Obsidian Podest
+tile.pedestal.quartzblock.name=Netherquarz  Podest
+tile.pedestal.sandstone.name=Sandstein Podest
+
+tile.pedestal_core.name=Podest Kern
+tile.pedestal_core.diamond.name=Diamant Podest Kern
+tile.pedestal_core.emerald.name=Smaragt Podest Kern
+tile.pedestal_core.glowstone.name=Glowstone Podest Kern
+tile.pedestal_core.gold.name=Gold Podest Kern
+tile.pedestal_core.grass.name=Grass Podest Kern
+tile.pedestal_core.iron.name=Eisen Podest Kern
+tile.pedestal_core.lapis.name=Lapis Podest Kern
+tile.pedestal_core.logacacia.name=Akazienholz Podest Kern
+tile.pedestal_core.logbigoak.name=Dunkles Eichenholz Wood Podest Kern
+tile.pedestal_core.logbirch.name=Birkenholz Podest Kern
+tile.pedestal_core.logjungle.name=Tropenholz Podest Kern
+tile.pedestal_core.logoak.name=Eichenholz Podest Kern
+tile.pedestal_core.logspruce.name=Fichtenholz Podest Kern
+tile.pedestal_core.obsidian.name=Obsidian Podest Kern
+tile.pedestal_core.quartzblock.name=Netherquarz Podest Kern
+tile.pedestal_core.sandstone.name=Sandstein Podest Kern
