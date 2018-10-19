@@ -1,0 +1,44 @@
+# GUI
+itemGroup.pedestalcrafting=Voetstukken maken
+
+config.displaySpeed=Object Toonsnelheid
+config.displaySpeed.tooltip=De snelheid waarmee dingen draaien, omhoog en omlaag gaan op het voetstuk - rondes/sec
+
+gui.jei.category.pedestal=Voetstuk
+
+# Items
+tile.pedestal.name=Voetstuk
+tile.pedestal.diamond.name=Diamant Voetstuk
+tile.pedestal.emerald.name=Smaragd Voetstuk
+tile.pedestal.glowstone.name=Gloeisteen Voetstuk
+tile.pedestal.gold.name=Gouden Voetstuk
+tile.pedestal.grass.name=Gras Voetstuk
+tile.pedestal.iron.name=IJzeren Voetstuk
+tile.pedestal.lapis.name=Lapis Voetstuk
+tile.pedestal.logacacia.name=Acaciahouten Voetstuk
+tile.pedestal.logbigoak.name=Donker Eikenhouten Voetstuk
+tile.pedestal.logbirch.name=Berkenhouten Voetstuk
+tile.pedestal.logjungle.name=Junglehouten Voetstuk
+tile.pedestal.logoak.name=Eikenhouten Voetstuk
+tile.pedestal.logspruce.name=Dennenhouten Voetstuk
+tile.pedestal.obsidian.name=Obsidiaan Voetstuk
+tile.pedestal.quartzblock.name=Kwarts Voetstuk
+tile.pedestal.sandstone.name=Zandsteen Voetstuk
+
+tile.pedestal_core.name=Voetstuk Kern
+tile.pedestal_core.diamond.name=Diamant Voetstuk Kern
+tile.pedestal_core.emerald.name=Smaragd Voetstuk Kern
+tile.pedestal_core.glowstone.name=Gloeisteen Voetstuk Kern
+tile.pedestal_core.gold.name=Gouden Voetstuk Kern
+tile.pedestal_core.grass.name=Gras Voetstuk Kern
+tile.pedestal_core.iron.name=IJzeren Voetstuk Kern
+tile.pedestal_core.lapis.name=Lapis Voetstuk Kern
+tile.pedestal_core.logacacia.name=Acaciahouten Voetstuk Kern
+tile.pedestal_core.logbigoak.name=Donker Eikenhouten Voetstuk Kern
+tile.pedestal_core.logbirch.name=Berkenhouten Voetstuk Kern
+tile.pedestal_core.logjungle.name=Junglehouten Voetstuk Kern
+tile.pedestal_core.logoak.name=Eikenhouten Voetstuk Kern
+tile.pedestal_core.logspruce.name=Dennenhouten Voetstuk Kern
+tile.pedestal_core.obsidian.name=Obsidiaan Voetstuk Kern
+tile.pedestal_core.quartzblock.name=Kwarts Voetstuk Kern
+tile.pedestal_core.sandstone.name=Zandsteen Voetstuk Kern
