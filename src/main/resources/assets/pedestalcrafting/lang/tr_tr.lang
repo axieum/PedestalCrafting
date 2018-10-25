@@ -1,0 +1,44 @@
+# GUI
+itemGroup.pedestalcrafting=Kaide Üretimi
+
+config.displaySpeed=Ürün Görüntüleme Hızı
+config.displaySpeed.tooltip=Öğelerin dönme, yükselme ve kaidelere düşme hızı - dönüş/sn
+
+gui.jei.category.pedestal=Kaide
+
+# Items
+tile.pedestal.name=Kaide
+tile.pedestal.diamond.name=Elmas Kaide
+tile.pedestal.emerald.name=Zümrüt Kaide
+tile.pedestal.glowstone.name=Kızdırma Taş Kaide
+tile.pedestal.gold.name=Altın Kaide
+tile.pedestal.grass.name=Çim Kaide
+tile.pedestal.iron.name=Demir Kaide
+tile.pedestal.lapis.name=Lapis Kaide
+tile.pedestal.logacacia.name=Akasya Ahşabı Kaide
+tile.pedestal.logbigoak.name=Koyu Meşe Ağacı Kaide
+tile.pedestal.logbirch.name=Huş Ağacı Kaide
+tile.pedestal.logjungle.name=Orman Ağacı Kaide
+tile.pedestal.logoak.name=Meşe Ağacı Kaide
+tile.pedestal.logspruce.name=Ladin Ağacı Kaide
+tile.pedestal.obsidian.name=Obsidyen Kaide
+tile.pedestal.quartzblock.name=Kuvars Kaide
+tile.pedestal.sandstone.name=Kumtaşı Kaide
+
+tile.pedestal_core.name=Kaide Tabanı
+tile.pedestal_core.diamond.name=Elmas Kaide Tabanı
+tile.pedestal_core.emerald.name=Zümrüt Kaide Tabanı
+tile.pedestal_core.glowstone.name=Kızdırma Taş Kaide Tabanı
+tile.pedestal_core.gold.name=Altın Kaide Tabanı
+tile.pedestal_core.grass.name=Çim Kaide Tabanı
+tile.pedestal_core.iron.name=Demir Kaide Tabanı
+tile.pedestal_core.lapis.name=Lapis Kaide Tabanı
+tile.pedestal_core.logacacia.name=Akasya Ahşabı Kaide Tabanı
+tile.pedestal_core.logbigoak.name=Koyu Meşe Ağacı Kaide Tabanı
+tile.pedestal_core.logbirch.name=Huş Ağacı Kaide Tabanı
+tile.pedestal_core.logjungle.name=Orman Ağacı Kaide Tabanı
+tile.pedestal_core.logoak.name=Meşe Ağacı Kaide Tabanı
+tile.pedestal_core.logspruce.name=Ladin Ağacı Kaide Tabanı
+tile.pedestal_core.obsidian.name=Obsidyen Kaide Tabanı
+tile.pedestal_core.quartzblock.name=Kuvars Kaide Tabanı
+tile.pedestal_core.sandstone.name=Kumtaşı Kaide Tabanı
