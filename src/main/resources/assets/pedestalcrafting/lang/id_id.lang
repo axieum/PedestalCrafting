@@ -1,0 +1,44 @@
+# GUI
+itemGroup.pedestalcrafting=Pedestal Crafting
+
+config.displaySpeed=Kecepatan Tampilan Item
+config.displaySpeed.tooltip=Kecepatan di mana item berputar, naik dan turun di tumpuan - rotasi/detik
+
+gui.jei.category.pedestal=Alas
+
+# Items
+tile.pedestal.name=Alas
+tile.pedestal.diamond.name=Alas Berlian
+tile.pedestal.emerald.name=Alas Zamrud
+tile.pedestal.glowstone.name=Alas Glowstone
+tile.pedestal.gold.name=Alas Emas
+tile.pedestal.grass.name=Alas Rumput
+tile.pedestal.iron.name=Alas Besi
+tile.pedestal.lapis.name=Alas Lapis
+tile.pedestal.logacacia.name=Alas Kayu Acacia
+tile.pedestal.logbigoak.name=Alas Oak Wood Gelap
+tile.pedestal.logbirch.name=Alas Birch Wood
+tile.pedestal.logjungle.name=Alas Jungle Wood
+tile.pedestal.logoak.name=Alas Oak Wood
+tile.pedestal.logspruce.name=Alas Spruce Wood
+tile.pedestal.obsidian.name=Alas Obsidian
+tile.pedestal.quartzblock.name=Alas Kuarsa
+tile.pedestal.sandstone.name=Alas Sandstone
+
+tile.pedestal_core.name=Alas Inti
+tile.pedestal_core.diamond.name=Alas Inti Berlian
+tile.pedestal_core.emerald.name=Alas Inti Zamrud
+tile.pedestal_core.glowstone.name=Alas Inti Glowstone
+tile.pedestal_core.gold.name=Alas Inti Emas
+tile.pedestal_core.grass.name=Alas Inti Rumput
+tile.pedestal_core.iron.name=Alas Inti Besi
+tile.pedestal_core.lapis.name=Alas Inti Lapis
+tile.pedestal_core.logacacia.name=Alas Inti Kayu Acacia
+tile.pedestal_core.logbigoak.name=Alas Inti Oak Wood Gelap
+tile.pedestal_core.logbirch.name=Alas Inti Birch Wood
+tile.pedestal_core.logjungle.name=Alas Inti Jungle Wood
+tile.pedestal_core.logoak.name=Alas Inti Oak Wood
+tile.pedestal_core.logspruce.name=Alas Inti Spruce Wood
+tile.pedestal_core.obsidian.name=Alas Inti Obsidian
+tile.pedestal_core.quartzblock.name=Alas Inti Kuarsa
+tile.pedestal_core.sandstone.name=Alas Inti Sandstone
