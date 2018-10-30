@@ -1,0 +1,44 @@
+# GUI
+itemGroup.pedestalcrafting=Memadukan Pondasi
+
+config.displaySpeed=Kecepatan Menampilkan Item
+config.displaySpeed.tooltip=Kecepatan di mana item berputar, naik dan turun di pondasi - rotasi/detik
+
+gui.jei.category.pedestal=Pondasi
+
+# Items
+tile.pedestal.name=Pondasi
+tile.pedestal.diamond.name=Pondasi Berlian
+tile.pedestal.emerald.name=Pondasi Zamrud
+tile.pedestal.glowstone.name=Pondasi Batu Bersinar
+tile.pedestal.gold.name=Pondasi Emas
+tile.pedestal.grass.name=Pondasi Rumput
+tile.pedestal.iron.name=Pondasi Besi
+tile.pedestal.lapis.name=Pondasi Lapis
+tile.pedestal.logacacia.name=Pondasi Kayu Acacia
+tile.pedestal.logbigoak.name=Pondasi Kayu Oak Hitam
+tile.pedestal.logbirch.name=Pondasi Kayu Birch
+tile.pedestal.logjungle.name=Pondasi Kayu Hutan
+tile.pedestal.logoak.name=Pondasi Kayu Oak
+tile.pedestal.logspruce.name=Pondasi Kayu Cemara
+tile.pedestal.obsidian.name=Pondasi Obsidian
+tile.pedestal.quartzblock.name=Pondasi Quartz
+tile.pedestal.sandstone.name=Pondasi Batu Pasir
+
+tile.pedestal_core.name=Inti Pondasi
+tile.pedestal_core.diamond.name=Inti Pondasi Berlian
+tile.pedestal_core.emerald.name=Inti Pondasi Zamrud
+tile.pedestal_core.glowstone.name=Inti Pondasi Batu Bersinar
+tile.pedestal_core.gold.name=Inti Pondasi Emas
+tile.pedestal_core.grass.name=Inti Pondasi Rumput
+tile.pedestal_core.iron.name=Inti Pondasi Besi
+tile.pedestal_core.lapis.name=Inti Pondasi Lapis
+tile.pedestal_core.logacacia.name=Inti Pondasi Kayu Acacia
+tile.pedestal_core.logbigoak.name=Inti Pondasi Dark Kayu Oak
+tile.pedestal_core.logbirch.name=Inti Pondasi Kayu Birch
+tile.pedestal_core.logjungle.name=Inti Pondasi Kayu Hutan
+tile.pedestal_core.logoak.name=Inti Pondasi Kayu Oak
+tile.pedestal_core.logspruce.name=Inti Pondasi Kayu Cemara
+tile.pedestal_core.obsidian.name=Inti Pondasi Obsidian
+tile.pedestal_core.quartzblock.name=Inti Pondasi Quartz
+tile.pedestal_core.sandstone.name=Inti Pondasi Batu Pasir
